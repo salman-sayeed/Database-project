@@ -1,4 +1,4 @@
-<img src="https://imgur.com/undefined"  height="300">
+<img src="https://imgur.com/UEhlBVJ.png"  height="300">
 
 # Database - Railway Management System 
 
@@ -28,8 +28,8 @@ Developed and integrated a robust MySQL database for a Railway Management System
 
 ## Screenshots
 
-<img src="https://imgur.com/tCeYUoX"  height="300">
+<img src="https://imgur.com/tCeYUoX.png"  height="300">
 
-<img src="https://imgur.com/klNkORI"  height="300">
+<img src="https://imgur.com/klNkORI.png"  height="300">
 
-<img src="https://imgur.com/jn3TJI3"  height="300">
+<img src="https://imgur.com/jn3TJI3.png"  height="300">
