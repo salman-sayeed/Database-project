@@ -1,16 +1,35 @@
-**American International University - Bangladesh**
-Department of Computer Science and Engineering
+<img src="https://imgur.com/undefined"  height="300">
 
-## Project
+# Database - Railway Management System 
 
-**Project Name**: Metro Rail Ticketing System  
-**Code**: My-SQL [Oracle 10G]
+Developed and integrated a robust MySQL database for a Railway Management System, streamlining data management and ensuring seamless connectivity between the software and the database. Optimized data retrieval and storage processes, enabling real-time updates and secure transaction processing. This implementation improved system efficiency, enhanced reliability, and provided a smooth user experience for ticketing operations.
 
-ER DIagram is created using [LucidChart](https://www.lucidchart.com/pages/landing/er-diagram-software?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_tier3_mixed_search_brand_phrase_&km_CPC_CampaignId=1484560204&km_CPC_AdGroupID=60168109391&km_CPC_Keyword=%2Blucid%20chart%20%2Ber%20%2Bdiagram&km_CPC_MatchType=b&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=476146097663&km_CPC_TargetID=kwd-466788956326&km_CPC_Country=1001441&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gclid=Cj0KCQjw6KunBhDxARIsAKFUGs-yPXkpkawzSjseJZndygqFcf_N3O4tSTiNahSvzXBJHYwW8roboK0aAoiBEALw_wcB)
+## Key Features
+- Seamless Connectivity
+- Optimized Data Handling
+- Real-Time Updates
+- Secure Transactions
+- Improved Efficiency
+- Enhanced User Experience
+
+## Members
+
+| Name              | Institution                                                           | Socials                                    |
+|-------------------|-----------------------------------------------------------------------|--------------------------------------------|
+| Salman Sayeed     | [American International University-Bangladesh](https://www.aiub.edu/) | [GitHub](https://github.com/salman-sayeed) |
+| MD. Istiak Ahamed | [American International University-Bangladesh](https://www.aiub.edu/) | [GitHub]()                                 |
+| Kayjer Islam      | [American International University-Bangladesh](https://www.aiub.edu/) | [GitHub]()                                 |
+| MD. Rakib Hasan   | [American International University-Bangladesh](https://www.aiub.edu/) | [GitHub]()                                 |
 
 
+## Environment & Tools
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySql" height="30"> &nbsp;
 
 
-## Contact
+## Screenshots
 
-**Email**: ss.salmansayeed@gmail.com
+<img src="https://imgur.com/tCeYUoX"  height="300">
+
+<img src="https://imgur.com/klNkORI"  height="300">
+
+<img src="https://imgur.com/jn3TJI3"  height="300">
